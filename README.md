@@ -1,3 +1,4 @@
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harpoonwithaz)](https://github.com/anuraghazra/github-readme-stats)
 - 👋 Hi, I’m @harpoonwithaz
 - 👀 I’m interested in coding, editing, graphic design.
 
