@@ -1,8 +1,4 @@
-# I love Python
+# About Me
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harpoonwithaz)](https://github.com/anuraghazra/github-readme-stats)
-
-<!---
-harpoonwithaz/harpoonwithaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello, my name is **Oliver.**
+I am a first year Computer Science student focused on building practical software projects. Interested in systems, tooling, and solving real problems in code.
